@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "52552315262",
+    "project_id": "flutter-firebase-test-fd894",
+    "storage_bucket": "flutter-firebase-test-fd894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52552315262:android:3bf3113a4600639d7b432f",
+        "android_client_info": {
+          "package_name": "net.satis.flutterfirebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52552315262-pskc5qie1rnqdbln6uephfpsjeqtksnc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPjUMJKphPYa0Sa-SpW0e-qQ36Vfr72eA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52552315262-pskc5qie1rnqdbln6uephfpsjeqtksnc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "52552315262-u75to450ve8ke4d3vj6mpuem928mtq59.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.satis.flutterfirebasetest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
