@@ -75,7 +75,7 @@ class MyHomePageState extends State {
   @override
   void initState() {
     super.initState();
-    WidgetsBinding.instance!.addPostFrameCallback((_) {
+    WidgetsBinding.instance.addPostFrameCallback((_) {
       test1( this );
 //      test2( this );
 //      test3( this );
